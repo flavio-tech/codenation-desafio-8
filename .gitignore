@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+.pytest_cache/
+__pycache__/
+.DS_Store
+main.py
+output.xml
+requirements.txt
+stdout.txt
+test_main.py
+semana8_to_be.ipynb
+aula_8_regressao_linear.ipynb
